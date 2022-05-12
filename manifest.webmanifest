@@ -1,0 +1,14 @@
+{
+  "icons": [
+    {
+      "src": "imgs/logo/Green Team logo_android192.PNG",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "imgs/logo/Green Team logo_android512.PNG",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
